@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "367682337961",
+    "firebase_url": "https://drivebygarage-c36ff.firebaseio.com",
+    "project_id": "drivebygarage-c36ff",
+    "storage_bucket": "drivebygarage-c36ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367682337961:android:229a2cdb2cdaca9e",
+        "android_client_info": {
+          "package_name": "com.gevelop.drivebygarage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367682337961-17umjs340b6fs9fdebaac7c8oc0hb3mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gevelop.drivebygarage",
+            "certificate_hash": "ab162287bdbccf0f1fd5714c5485ac2efffcf2b3"
+          }
+        },
+        {
+          "client_id": "367682337961-md109mf39j1h3c92itj6ukkka3sa5u51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAf7hOUesFE6hHUCniFQXxAEhLXTET_IM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367682337961-md109mf39j1h3c92itj6ukkka3sa5u51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
